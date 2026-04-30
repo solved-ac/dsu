@@ -63,6 +63,10 @@ These were the integrated before with the BOJ and will definitely make the user 
 
 It will be more than awesome tom maybe even support making submissions from solved.ac but with the user's own account in the respective judges. But I am expecting this would happen in the time very far from now.
 
+## Requirements
+
+The judges' behavior should be similar to that of the judging environment of the ICPC.
+
 ## The Protocol
 
 For step III to be done, solved.ac needs to prepare a protocol or maybe a API scheme. I expect this to be done in mid-to-late 2026.
