@@ -18,7 +18,7 @@ We will have our own...
   - We plan to allow logging in by other OJs' accounts in the future.
 - **Problem numbering system.**
   - We will basically use the same number scheme as the BOJ, which starts from #1000.
-  - For problems #1000..#35515, most of the problem numbers will match the BOJ's numbers, excluding problems such as duplicate problems - it is a N:M mapping.
+  - For problems #1000..#35515, most of the problem numbers will match the BOJ's numbers, excluding problems such as duplicate problems, and the problems with subtasks will get a numbering for each task - it is a N:M mapping.
   - For other OJs, if the problem is identical of that in the BOJ, we 'link' the existing ID to the foreign OJ's ID. Otherwise we assign them starting from #35516.
   - For instance, the problem *Scenery* will be `solved.ac #14640` = `BOJ #14640` = `Kattis scenery` = `QOJ #2774` = ...
 
