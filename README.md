@@ -24,7 +24,7 @@ We will have our own...
 
 ### Step I: Syncing the Problems
 
-First, we would like to sync the problems fron other OJs. To do this we will contact and/or accept contacts from other OJs.
+First, we would like to sync the problems fron other OJs. To do this we will contact and/or accept contacts from other OJs' administrators.
 
 - Foreign OJs do not have to do anything in this step. If they have an API, we will use them, and if they have not, we will write a crawler to run a recurring job.
 - The contributors from the BOJ will assign solved.ac problem IDs.
